@@ -14,11 +14,17 @@ A responsive weather application built using React and Vite that provides real-t
 - **Backend:** Node.js / Express (if applicable)
 
 ## Getting Started
+Install dependencies:
+npm install
 
-Install dependencies: npm install
-Run the development server: frontend-: cd demo; npm run dev
- Backend-: cd backend; node server.js
- 
+Run the Frontend:
+cd demo
+npm run dev
+
+Run the Backend:
+cd backend
+node server.js
+
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Avinash13098/weather-app.git](https://github.com/Avinash13098/weather-app.git)
