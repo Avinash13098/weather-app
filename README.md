@@ -11,19 +11,9 @@ A responsive weather application built using React and Vite that provides real-t
 ## Tech Stack
 
 - **Frontend:** React, Vite, JavaScript, CSS
-- **Backend:** Node.js / Express (if applicable)
+- **Backend:** Node.js, Express
 
 ## Getting Started
-Install dependencies:
-npm install
-
-Run the Frontend:
-cd demo
-npm run dev
-
-Run the Backend:
-cd backend
-node server.js
 
 1. **Clone the repository:**
    ```bash
